@@ -1,0 +1,5 @@
+# Account private key
+service-account-file.json
+
+# Editors file
+*.sublime-workspace
